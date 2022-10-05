@@ -10,4 +10,5 @@ This is the root directory of the alx-system_engineering-devops repo
 9.The 8-firstdelete deletes the betty file from my-first-directory
 10.The 9-firstdirdeletion deletes /tmp/my_first_directory
 11.The 10-back script changes working directory to previous one
-11.The 11-lists script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+12.The 11-lists script lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format
+13.The 12-file_type prints the type of the file named iamafi
