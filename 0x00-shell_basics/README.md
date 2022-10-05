@@ -16,3 +16,4 @@ This is the root directory of the alx-system_engineering-devops repo
 15.The 14-copy_html script copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory
 16.The 100-lets_move script moves files thay stary with an uppercase letter to /tmp/u
 17.The 101-clean_emacs script deletes files that end in ~
+18. The 102-tree script creates a directoey tree in current directory
