@@ -1,0 +1,1 @@
+This repo contains executable scripts for the 0x00.shell, basics project
