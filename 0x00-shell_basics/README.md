@@ -9,3 +9,4 @@ This is the root directory of the alx-system_engineering-devops repo
 8.The 7-movethatfile script moves the file betty in /tmp to /tmp/my_first_directory
 9.The 8-firstdelete deletes the betty file from my-first-directory
 10.The 9-firstdirdeletion deletes /tmp/my_first_directory
+11.The 10-back script changes working directory to previous one
