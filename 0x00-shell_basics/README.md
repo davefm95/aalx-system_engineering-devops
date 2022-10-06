@@ -17,3 +17,5 @@ This is the root directory of the alx-system_engineering-devops repo
 16.The 100-lets_move script moves files thay stary with an uppercase letter to /tmp/u
 17.The 101-clean_emacs script deletes files that end in ~
 18. The 102-tree script creates a directoey tree in current directory
+
+0.The 0-iam_betty script changes user to betty
