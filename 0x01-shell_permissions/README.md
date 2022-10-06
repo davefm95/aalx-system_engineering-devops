@@ -13,3 +13,4 @@
 12.The 12-directory_permissions script creates a directory and sets uts permissions to 751
 13.The 13-change_group scripts changes group owner of hello file to school
 14.The 100-change_owner_and_group changes owner and group of all filea in the current directory
+15.The 101-symbolic_link_permissions script changes user and group of symbolic link _hello
