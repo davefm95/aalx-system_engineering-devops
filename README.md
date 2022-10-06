@@ -1,1 +1,1 @@
-This repo contains executable scripts for the 0x00.shell, basics project
+This repo contains executable scripts for the 0x00-shell_basics project and the 0x01-shell_permisssions project
