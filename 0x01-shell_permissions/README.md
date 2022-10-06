@@ -14,3 +14,4 @@
 13.The 13-change_group scripts changes group owner of hello file to school
 14.The 100-change_owner_and_group changes owner and group of all filea in the current directory
 15.The 101-symbolic_link_permissions script changes user and group of symbolic link _hello
+16.The 102-if_only script changes the hello file user to betty only if its current user is guillaume
