@@ -1,4 +1,3 @@
-#!/bin/bash
 0-current_working_directory: text/plain
 100-lets_move:               text/plain
 101-clean_emacs:             text/plain
