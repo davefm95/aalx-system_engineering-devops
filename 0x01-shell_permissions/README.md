@@ -6,3 +6,4 @@
 5.The 5-execute script makes the hello file executable for the owner
 6.The 6-multiple_permissions script adds execute permission to owner and group and read permission to other users
 7.The 7-everybody script adds execution permission to all users
+8.The 8-James_Bond gives all permissions to other users 
