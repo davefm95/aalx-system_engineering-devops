@@ -10,3 +10,4 @@
 9.The 9-John_Doe script gives the hello file -rwxr-x-wx permissions
 10.The 10-mirror_permissions script sets the hello permissions same as olleh file
 11.11-directories_permissions script adds execution permissions tonall folders in current directory
+12.The 12-directory_permissions script creates a directory and sets uts permissions to 751
