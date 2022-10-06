@@ -12,3 +12,4 @@
 11.11-directories_permissions script adds execution permissions tonall folders in current directory
 12.The 12-directory_permissions script creates a directory and sets uts permissions to 751
 13.The 13-change_group scripts changes group owner of hello file to school
+14.The 100-change_owner_and_group changes owner and group of all filea in the current directory
