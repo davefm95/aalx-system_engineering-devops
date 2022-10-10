@@ -23,3 +23,4 @@ This the readme file for the 0x02 shell permissions project.
 21.The 21-reverse script Write a script that reverse its input
 22.The 22-users_and_homes script Write a script that displays all users and their home directories, sorted by users.
 23.The 100-empty_casks script prints the names of empty files and directories withiut file path
+24.The 101-gifs scriot pints all gif files withiut their extensions 
