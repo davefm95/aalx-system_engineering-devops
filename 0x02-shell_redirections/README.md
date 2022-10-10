@@ -7,3 +7,4 @@ This the readme file for the 0x02 shell permissions project.
 5.The 5-firstlines script displays the first 10 lines of /etc/passwd
 6.The 6-third_line script displays the third line of the file iacta
 7.The 7-file script creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School
+8.The 8-cwd_state script writes the the result of the command ls -la to a file ; ls_cwd_content
