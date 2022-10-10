@@ -15,3 +15,10 @@ This the readme file for the 0x02 shell permissions project.
 13.The 13-unique script takes an input list and sorys them without the releating lines
 14.The 14-findthatword script fijds all instances of the word root in the etc/passwd file
 15.The 15-countthatword script prints how many tomes the exp bin apeared in /etc/passwd file
+16.the 16-whatsnext script Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+17.the 17-hidethisword script Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
+18.the 18-letteronly script Display all lines of the file /etc/ssh/sshd_config starting with a letter.
+19. the 19-AZ script Replace all characters A and c from input to Z and e respectively.
+20.The 20-hiago script Create a script that removes all letters c and C from input.
+21.The 21-reverse script Write a script that reverse its input
+22.The 22-users_and_homes script Write a script that displays all users and their home directories, sorted by users.
