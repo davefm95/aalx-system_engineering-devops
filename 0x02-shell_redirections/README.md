@@ -13,3 +13,4 @@ This the readme file for the 0x02 shell permissions project.
 11.The 11-directories scripts counts the number of directoriea and subdirectories in current folder
 12.the 12-newest_files script prinys newest fikes in current directory
 13.The 13-unique script takes an input list and sorys them without the releating lines
+14.The 14-findthatword script fijds all instances of the word root in the etc/passwd file
