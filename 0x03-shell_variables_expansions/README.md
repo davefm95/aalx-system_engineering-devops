@@ -8,3 +8,4 @@ This file contains answers to the 0x03 shell variables expansions project
 6.The 6-create_local_variable creates a local variable BEST with value school
 7.The 7-create_global_variable script creates a new global variable.
 8.The 8-true_knowledge scrioys adds a an enviroment variable TRUEKNOWLEDGE  to 128
+9.The 9-divide_and_rule svript computes dibision between two environment variables
