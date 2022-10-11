@@ -6,3 +6,4 @@ This file contains answers to the 0x03 shell variables expansions project
 4.The 4-global_variables shows all environment variables
 5.The 5-local_variables lists all local variables and environment variables, and functions
 6.The 6-create_local_variable creates a local variable BEST with value school
+7.The 7-create_global_variable script creates a new global variable.
