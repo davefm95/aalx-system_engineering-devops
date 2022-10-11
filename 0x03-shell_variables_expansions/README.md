@@ -13,3 +13,4 @@ This file contains answers to the 0x03 shell variables expansions project
 11.The 11-binary_to_decimal script converst BINARY variable to decimal
 12.The 12-combinations script prints all possible combinations of two letters, except oo.
 13.The 13-print_float script prints a number with two decimal places, followed by a new line.
+14.The 100-decimal_to_hexadecimal script converts a number from base 10 to base 16.
