@@ -11,3 +11,4 @@ This file contains answers to the 0x03 shell variables expansions project
 9.The 9-divide_and_rule svript computes dibision between two environment variables
 10.The 10-love_exponent_breath script displays the result of BREATH to the power LOVE
 11.The 11-binary_to_decimal script converst BINARY variable to decimal
+12.The 12-combinations script prints all possible combinations of two letters, except oo.
