@@ -3,3 +3,4 @@ This file contains answers to the 0x03 shell variables expansions project
 1.The 1-hello_you script prints hello and the current username
 2.The 2-path scriot adds action to $PATH
 3.The 3-paths script shows number of directories in $PATH
+4.The 4-global_variables shows all environment variables
