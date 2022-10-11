@@ -15,3 +15,4 @@ This file contains answers to the 0x03 shell variables expansions project
 13.The 13-print_float script prints a number with two decimal places, followed by a new line.
 14.The 100-decimal_to_hexadecimal script converts a number from base 10 to base 16.
 15.The 101-rot13 script encodes and decodes text using the rot13 encryption.
+16.The 102-odd script prints every other line from the input, starting with the first line.
