@@ -1,6 +1,5 @@
 #!/usr/bin/env bash
-dir=$(pwd)
-for item in $(ls $dir)
+for item in *
 do
-    echo $item | cut -d "-" -f -2
+    echo "$item" | cut -d "-" -f 2-
 done
