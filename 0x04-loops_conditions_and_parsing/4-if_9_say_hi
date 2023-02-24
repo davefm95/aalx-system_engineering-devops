@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints string muktiple times
 var=1
 while [ $var -lt 11 ]
 do
