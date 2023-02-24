@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints file names in current directory
 for item in *
 do
     echo "$item" | cut -d "-" -f 2-

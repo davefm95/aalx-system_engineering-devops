@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#cjecks for the existence of school file and perform ops
 file="school"
 if [ -e $file ]
 then

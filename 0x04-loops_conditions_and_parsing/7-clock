@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints the hours till 12:59
 hour=0
 while [ $hour -lt 13 ]
 do
