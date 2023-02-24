@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#prints best svhool 10 times
 var=10
 until [ $var -eq 0 ]
 do
