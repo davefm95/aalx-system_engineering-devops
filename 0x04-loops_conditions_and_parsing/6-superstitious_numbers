@@ -1,18 +1,19 @@
 #!/usr/bin/env bash
-#prints numbers and string
-var=1
-while [ $var -lt 21 ]
+# Displays numbers from 1 to 20 and and other features
+i=1
+while [ $i -le 20 ]
 do
-	echo $var
-	if [ $var -eq 4 ]
-	then
-		echo "bad luck from China"
-	elif [ $var -eq 9 ]
-	then
-		echo "bad luck from Japan"
-	elif [ $var -eq 17 ]
-	then
-		echo "bad luck from Italy"
-	fi
-	var=$((var + 1))
+    echo $i
+    case $i in
+	4)
+	    echo "bad luck from China"
+	    ;;
+	9)
+	    echo "bad luck from Japan"
+	    ;;
+	17)
+	    echo "bad luck from Italy"
+	    ;;
+	esac
+    ((i++))
 done
