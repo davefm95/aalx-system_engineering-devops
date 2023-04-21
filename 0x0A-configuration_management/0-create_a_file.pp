@@ -1,6 +1,4 @@
-/*
-This manifest creates a file with specified content and other info
-*/
+# Creates a file 
 file { '/tmp/school':
   mode => '0744',
   owner => 'www-data',
