@@ -1,0 +1,7 @@
+Host 958-web-01
+     User ubuntu
+     Hostname 100.26.11.4
+     PreferredAuthentications publickey
+     IdentityFile ~/my_keys
+     PasswordAuthentication no
+     
