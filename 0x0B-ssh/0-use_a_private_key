@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# connects with a ssh server using provate key
+ssh -i ~/.ssh/school ubuntu@100.26.11.4
