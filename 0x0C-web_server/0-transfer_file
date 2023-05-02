@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# Copies a file to server
+userip="$3""@""$2"":~/"
+scp -o StrictHostKeyChecking=no -i "$4" "$1" "$userip"
