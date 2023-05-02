@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 # installs an nginx severer amd configures ut
-sudo apt-get -y install nginx
-sudo echo "Hello World!" > /var/www/html/index.html
+apt-get -y install nginx
+echo "Hello World!" > /var/www/html/index.html
 service nginx start
